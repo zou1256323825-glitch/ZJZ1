@@ -1,0 +1,23 @@
+# Data files (download separately)
+data/cifar-10-python.tar.gz
+data/cifar-10-batches-py/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+
+# IDE
+.idea/
+.vscode/
+
+# Training outputs
+runs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
